@@ -1,0 +1,47 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap'); */
+
+
+
+.container {
+    width: 1118px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.section-bg {
+    background-color: #F9F8F8;
+}
+.box {
+    width: 257px;
+    height: 335px;
+    background-color: #fff;
+    display: inline-block;
+    padding-top: 29px;
+}
+.active {
+    margin-right: 30px;
+}
+.box-text {
+    margin-top: 20px;
+    text-align: center;
+    font-family: 'Roboto-Black';
+}
+.box-title {
+    margin-left: 22px;
+    font-family: "Yellowtail", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.block-test {
+    width: 150px;
+    height: 150px;
+    background-color: blueviolet;
+    padding: 30px;
+}
+
+.test-descr {
+    width: 450px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: red;
+    text-align: justify;
+}
